@@ -1,0 +1,13 @@
+.navbar-nav {
+    display: inline-block;
+	margin-right:100px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.navbar-brand {
+    display: inline-block;
+	margin-left:100px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
